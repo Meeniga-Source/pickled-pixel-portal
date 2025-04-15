@@ -22,7 +22,7 @@ const Logo = () => {
         }}
         className="w-12 h-12"
       >
-        /Users/rajasekharreddy/Downloads/MR LOGO.png
+        
       </motion.div>
       MR PICKLES
     </motion.div>
