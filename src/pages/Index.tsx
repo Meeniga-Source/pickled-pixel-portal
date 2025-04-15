@@ -24,6 +24,15 @@ const Index = () => {
           </p>
         </section>
 
+        <section id="about" className="py-12 px-4 bg-[#F7F9F0]">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-4xl font-bold text-[#2C4001] mb-6">About Us</h2>
+            <p className="text-lg text-gray-600">
+              We are passionate about creating the finest handcrafted pickles using traditional recipes passed down through generations. Our commitment to quality and authenticity sets us apart, ensuring each jar brings the perfect blend of crunch and flavor to your table.
+            </p>
+          </div>
+        </section>
+
         <section id="products">
           <ProductList />
         </section>
