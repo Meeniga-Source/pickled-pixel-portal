@@ -22,9 +22,9 @@ const Logo = () => {
         }}
         className="w-12 h-12"
       >
-        🥒
+        /Users/rajasekharreddy/Downloads/MR LOGO.png
       </motion.div>
-      Pickle Paradise
+      MR PICKLES
     </motion.div>
   );
 };
